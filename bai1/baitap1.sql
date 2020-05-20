@@ -10,3 +10,5 @@ CREATE TABLE Persons (
 insert into Persons(PersonID, LastName, FirstName, Address, City) values ('3','Lê','Hiếu','TP Vinh','Nghệ An');
 
 select * from Persons;
+
+drop database baitap;
