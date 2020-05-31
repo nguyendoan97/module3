@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    font-family: Arial;
+}
+
+#header{
+    /*background: #f4f4f4;*/
+    height: 10%;
+    width: 100%;
+    position: fixed;
+}
+
+#main{
+    /*border: 1px solid;*/
+    width: 80%;
+    height: 60%;
+    float: right;
+    top: 180px;
+    /*clear: both;*/
+    margin-top:80px;
+}
+
+#sidebar{
+    width: 15%;
+    height:60%;
+    float: left;
+    position: fixed;
+    top: 100px;
+    margin:0;
+    position: fixed;
+
+}
+
+#sidebar li:hover{
+    background-color: #F5F5F5;
+}
+
+#footer{
+    background-color: #80bdff;
+    width: 100%;
+    height: 80px;
+    clear: both;
+}
+
+    #sidebar,#sidebar ul,#sidebar li{
+        padding: 0;
+        margin-left: 0;
+    }
+    #sidebar ul,#sidebar li{
+        position: absolute;
+        top:30px;
+    }
+
+#sidebar li{
+    background-color: white;
+    margin-left: 10px;
+    border:1px solid pink ;
+    list-style: none;
+    position: relative;
+    width:100%;
+    height: 30px;
+    padding:10px;
+    padding-left: 20px;
+    line-height: 30px;
+    cursor:pointer;
+}
+
+#sidebar ul ul{
+    position: absolute;
+    top:0;
+    left:210px;
+    visibility:hidden;
+    width: 200px;
+}
+
+#sidebar ul li:hover ul{
+    visibility: visible;
+}
+
+li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#logo{
+    background-color: white;
+    width: 20%;
+    height: 80px;
+    float: left;
+}
+
+#bander{
+    background-color: white;
+    width: 80%;
+    height: 80px;
+    float: left;
+}
+
+/*menu ngang*/
+
+#bander li{
+    background-color: white;
+    position: relative;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+#bander li a:hover{
+    background-color: #F5F5F5;
+}
+#bander ul ul{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    visibility: hidden;
+}
+#bander ul li:hover ul{
+    visibility: visible;
+    margin-top:50px;
+}
+#bander ul ul li a{
+    width: 200px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#bander li a{
+    width:200px;
+    height: 53px;
+    display: block;
+    text-decoration:none;
+    text-align: center;
+    line-height: 30px;
+    color: black;
+    padding-top:20px;
+    padding-bottom: 5px;
+}
+#bander ul{
+    margin: 0;
+    /*display:flex;*/
+    /*justify-content: space-around;*/
+}
+#sidebar__search {
+    margin: 20px;
+    border: 1px solid;
+    border-radius: 5px ;
+    display: inline;
+    padding: 5px;
+    float: left;
+    height: 20px;
+    margin-top: 8px;
+    width: 180px;
+}
+#sidebar__search input{
+    border: none;
+    margin-left: 5px;
+    margin-top: 0;
+    width: 140px;
+}
+
