@@ -19,18 +19,6 @@ body{
     /*clear: both;*/
     margin-top:80px;
 }
-
-#sidebar{
-    width: 15%;
-    height:60%;
-    float: left;
-    position: fixed;
-    top: 100px;
-    margin:0;
-    position: fixed;
-
-}
-
 #sidebar li:hover{
     background-color: #F5F5F5;
 }
@@ -58,17 +46,18 @@ body{
     list-style: none;
     position: relative;
     width:100%;
-    height: 30px;
+    height: 50px;
     padding:10px;
     padding-left: 20px;
     line-height: 30px;
+    padding-right: 30px;
     cursor:pointer;
 }
 
 #sidebar ul ul{
     position: absolute;
     top:0;
-    left:210px;
+    left:197px;
     visibility:hidden;
     width: 200px;
 }
@@ -83,11 +72,11 @@ li a{
     color: black;
 }
 
-#logo{
-    background-color: white;
-    width: 20%;
+.col-lg-10{
     height: 80px;
-    float: left;
+}
+.col-lg-2{
+    height: 80px;
 }
 
 #bander{
@@ -99,7 +88,7 @@ li a{
 
 /*menu ngang*/
 
-#bander li{
+.col-lg-10 li{
     background-color: white;
     position: relative;
     float: left;
@@ -107,37 +96,38 @@ li a{
     margin: 0;
     padding:0;
 }
-#bander li a:hover{
+.col-lg-10 li a:hover{
     background-color: #F5F5F5;
 }
-#bander ul ul{
+.col-lg-10 ul ul{
     position: absolute;
     top: 30px;
     left: 15px;
     visibility: hidden;
 }
-#bander ul li:hover ul{
+.col-lg-10 ul li:hover ul{
     visibility: visible;
-    margin-top:50px;
+    margin-top:40px;
 }
-#bander ul ul li a{
+.col-lg-10 ul ul li a{
     width: 200px;
     text-align: left;
+    margin-top:0;
     padding-left: 10px;
 }
 
-#bander li a{
-    width:200px;
-    height: 53px;
+.col-lg-10 li a{
+    width:140px;
+    height: 80px;
     display: block;
     text-decoration:none;
     text-align: center;
     line-height: 30px;
     color: black;
-    padding-top:20px;
-    padding-bottom: 5px;
+    padding-top:28px;
+    padding-bottom: 50px;
 }
-#bander ul{
+.col-lg-10 ul{
     margin: 0;
     /*display:flex;*/
     /*justify-content: space-around;*/
@@ -145,13 +135,14 @@ li a{
 #sidebar__search {
     margin: 20px;
     border: 1px solid;
-    border-radius: 5px ;
+    border-radius: 22px ;
     display: inline;
     padding: 5px;
     float: left;
-    height: 20px;
-    margin-top: 8px;
-    width: 180px;
+    height: 35px;
+    margin-top: 24px;
+    margin-left: 15px;
+    width: 200px;
 }
 #sidebar__search input{
     border: none;
