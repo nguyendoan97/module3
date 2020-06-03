@@ -1,6 +1,6 @@
-package service;
+package com.codegym.service;
 
-import model.Customer;
+import com.codegym.model.Customer;
 
 import java.util.List;
 

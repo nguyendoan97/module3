@@ -1,8 +1,8 @@
-package controller;
+package com.codegym.controller;
 
-import model.Customer;
-import service.CustomerService;
-import service.CustomerServiceImpl;
+import com.codegym.model.Customer;
+import com.codegym.service.CustomerService;
+import com.codegym.service.CustomerServiceImpl;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

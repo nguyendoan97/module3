@@ -24,7 +24,7 @@
     </c:if>
 </p>
 <p>
-    <a href="/customers">Back to customer list</a>
+    <a href="${pageContext.request.contextPath}/customers">Back to customer list</a>
 </p>
 <form method="post">
     <fieldset>
