@@ -1,11 +1,11 @@
 package pack;
 
 public class custom {
-    String name,year,address;
+    String name, birthday,address;
 
     public custom(String name, String year, String address) {
         this.name = name;
-        this.year = year;
+        this.birthday = year;
         this.address = address;
     }
 
@@ -17,12 +17,12 @@ public class custom {
         this.name = name;
     }
 
-    public String getYear() {
-        return year;
+    public String getBirthday() {
+        return birthday;
     }
 
-    public void setYear(String year) {
-        this.year = year;
+    public void setBirthday(String birthday) {
+        this.birthday = birthday;
     }
 
     public String getAddress() {
