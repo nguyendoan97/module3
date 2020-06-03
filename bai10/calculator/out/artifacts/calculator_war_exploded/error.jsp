@@ -14,7 +14,6 @@
 <%@ page isErrorPage="true" %>
 
 <h3>Can't divide by zero!</h3>
-Fuck you !!!
 
 </body>
 </html>

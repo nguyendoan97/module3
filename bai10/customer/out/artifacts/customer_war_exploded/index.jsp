@@ -6,6 +6,11 @@
 <html>
   <head>
     <title>$Title$</title>
+    <style>
+      td{
+        border: 1px solid;
+      }
+    </style>
   </head>
   <body>
   <%
@@ -15,7 +20,7 @@
     list.add(new custom("Long","27","Vĩnh Phúc"));
   %>
 
-  <table>
+  <table style="border: 1px solid ;border-collapse: collapse;">
     <tr>
       <td>
         Tên
