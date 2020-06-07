@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da18b44e-3fff-48eb-8b28-8b2a8c801711" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/artifacts/MVC__Customer_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/libraries/taglibs_standard_spec_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/MVC__Customer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/classes/META-INF/MVC__Customer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/classes/com/codegym/controller/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/classes/com/codegym/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/classes/com/codegym/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/classes/com/codegym/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/artifacts/MVC__Customer_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/production/MVC__Customer/META-INF/MVC__Customer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/production/MVC__Customer/com/codegym/controller/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/production/MVC__Customer/com/codegym/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/production/MVC__Customer/com/codegym/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/out/production/MVC__Customer/com/codegym/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/src/com/codegym/controller/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/src/com/codegym/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/src/com/codegym/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/src/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC__Customer/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/artifacts/mvc_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/libraries/taglibs_standard_spec_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/mvc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/classes/com/codegym/controller/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/classes/com/codegym/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/classes/com/codegym/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/classes/com/codegym/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/erro-404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/artifacts/mvc_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/production/mvc/com/codegym/controller/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/production/mvc/com/codegym/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/production/mvc/com/codegym/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/out/production/mvc/com/codegym/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/src/com/codegym/controller/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/src/com/codegym/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/src/com/codegym/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/src/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/erro-404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/artifacts/mvc_product_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/libraries/taglibs_standard_impl_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/mvc_product.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/classes/product/controller/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/classes/product/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/classes/product/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/classes/product/service/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/product/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/product/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/product/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/product/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/artifacts/mvc_product_war_exploded/product/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/production/mvc_product/product/controller/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/production/mvc_product/product/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/production/mvc_product/product/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/out/production/mvc_product/product/service/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/src/product/controller/ProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/src/product/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/src/product/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/src/product/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/product/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/product/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/product/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/product/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_product/web/product/list.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Codegym\module3\bai12\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cptpJl6eonvSLnwGeF0cSES9aN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.35" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="thuchanh:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/thuchanh_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="thuchanh:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da18b44e-3fff-48eb-8b28-8b2a8c801711" name="Default Changelist" comment="" />
+      <created>1591237543272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591237543272</updated>
+      <workItem from="1591237547225" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1591237594864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591237594864" />
+    <state x="65" y="0" key="new project wizard" timestamp="1591237597598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591237597598" />
+  </component>
+</project>
